@@ -1038,7 +1038,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 105.0, 829.0, 91.0, 22.0 ],
+					"patching_rect" : [ 105.0, 857.0, 91.0, 22.0 ],
 					"text" : "s mediadevices"
 				}
 
@@ -1049,7 +1049,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 172.0, 800.0, 32.0, 22.0 ],
+					"patching_rect" : [ 172.0, 828.0, 32.0, 22.0 ],
 					"text" : "print"
 				}
 
@@ -1060,7 +1060,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 107.5, 693.0, 60.0, 22.0 ],
+					"patching_rect" : [ 107.5, 721.0, 60.0, 22.0 ],
 					"text" : "print jweb"
 				}
 
@@ -1072,7 +1072,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 38.0, 693.0, 65.0, 22.0 ],
+					"patching_rect" : [ 38.0, 721.0, 65.0, 22.0 ],
 					"text" : "route error"
 				}
 
@@ -1084,7 +1084,7 @@
 					"numinlets" : 3,
 					"numoutlets" : 3,
 					"outlettype" : [ "", "", "" ],
-					"patching_rect" : [ 38.0, 769.0, 153.0, 22.0 ],
+					"patching_rect" : [ 38.0, 797.0, 153.0, 22.0 ],
 					"text" : "route update mediadevices"
 				}
 
@@ -1097,7 +1097,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 38.0, 727.0, 39.0, 32.0 ]
+					"patching_rect" : [ 38.0, 755.0, 39.0, 32.0 ]
 				}
 
 			}
@@ -1685,7 +1685,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 38.0, 243.0, 635.0, 431.0 ],
+					"patching_rect" : [ 38.0, 221.0, 640.0, 480.0 ],
 					"rendermode" : 1,
 					"url" : "file://jweb-hands-gesture-recognizer.html"
 				}
